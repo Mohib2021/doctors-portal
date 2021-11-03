@@ -9,7 +9,7 @@ import StaticDatePicker from "@mui/lab/StaticDatePicker";
 import AppointmentTime from "./AppointmentTime";
 function Appointment() {
 	const [dateValue, setDateValue] = React.useState(new Date());
-	console.log(dateValue);
+
 	return (
 		<div>
 			<HeroSection>
