@@ -1,0 +1,19 @@
+.hero-section {
+	background-image: url(../../../images/chair.png);
+	background-color: rgba(70, 70, 70, 0.801);
+	background-blend-mode: darken, luminosity;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 1rem;
+	position: relative;
+	color: white;
+}
+/* .hero-section::after {
+	height: 85vh;
+	width: 100%;
+	content: "";
+	background-color: rgba(0, 0, 0, 0.685);
+	position: absolute;
+	top: 0;
+	left: 0;
+} */
